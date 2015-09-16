@@ -1,10 +1,13 @@
 # Welcome to P1 Problem Set!
+Peter Strack
+September 16, 2015
 
 ## Live URL
-<http://p2.strack-works.com>
+<http://p1.strack-works.com>
 
 ## Description
-A simple utility for generating [xkcd style passwords](http://xkcd.com/936/).
+A simple access page that provides my background information
+and links to my future projects.
 
 ## Demo
 Not required for P1
