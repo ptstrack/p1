@@ -74,6 +74,7 @@
 				For fun, I love spending time with my family and friends. I enjoy working out (especially CrossFit), 
 				boating, snowboarding, and exploring new restaurants and events in the Washington, D.C. metro area."
 			</p>
+			
 			<h2>Why I'm taking this course</h2>
 			<p>
 				I'm taking this course for several reasons. First, I've always wanted to know the 
@@ -85,17 +86,20 @@
 				just want to learn how this stuff works so I can have the requisite skills to play around 
 				with it, try new features, and have fun!
 			</p>
+			
 			<h2>Prior experience with programming</h2>
 			<p>
 				My previous experience with programming is a bit limited.  I took CSCI e12 in 2013 which
 				was a great introduction into html, css, and js.  Prior to that, I last took some Pascal in
 				high school and class in C++ about 20 years ago.
 			</p>
+			
 			<h2>Which platform am I using?</h2>
 			<p>
 				I'm a diehard Apple fan - so even though I use a Dell for work, I use a Mac for all
 				programming activities and coursework.
 			</p>
+			
 			<br>
 		</div>
 	</body>
