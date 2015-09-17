@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Peter Strack | DWA CSCI E-15 Portfolio</title>
